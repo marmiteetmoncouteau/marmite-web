@@ -1,0 +1,56 @@
+---
+label: Article
+hide_body: 
+is_partial: 
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: featured_image
+  label: Featured image
+  type: text
+  hidden: false
+  default: ''
+- name: recipe
+  label: Recipe
+  type: field_group
+  fields:
+  - name: servings
+    label: Servings
+    type: text
+    hidden: false
+    default: ''
+  - name: prep
+    label: Prep
+    type: text
+    hidden: false
+    default: ''
+  - name: cook
+    label: Cook
+    type: text
+    hidden: false
+    default: ''
+  - name: ingredients_markdown
+    label: Ingredients markdown
+    type: textarea
+    hidden: false
+    default: ''
+  - name: directions_markdown
+    label: Directions markdown
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
