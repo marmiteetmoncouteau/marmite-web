@@ -1,6 +1,9 @@
 - name: Accueil
   link: /
+- name: A propos
+  link: /nous/
 - name: Articles
   link: /articles/
 - name: Contact
   link: /contact/
+  
