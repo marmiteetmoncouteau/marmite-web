@@ -23,6 +23,3 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
-pages:
-- _posts/98451dfsdfsd584fdg6fdg/fsdfdsf.md
-- _posts/this-is-a-test.md
