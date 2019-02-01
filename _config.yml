@@ -36,7 +36,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /xyz/:title
+      permalink: /ios2OpppTFzY6vEOfNlcjmAvt3/:date/:title
       push_sidebar_down: true
       print_stylesheet: true
       comments: true
