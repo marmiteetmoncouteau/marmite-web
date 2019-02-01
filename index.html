@@ -2,33 +2,11 @@
 title: Accueil
 
 ---
-<section class="posts">
-	{% for post in paginator.posts %}
-		<article class="post">
-			{% include post-heading.html post=post %}
-			<div class="image">
-				<a href="{{ post.url }}">
-					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-				</a>
-			</div>
+<div class="editable">
+	<h1>About</h1>
+test 4
+	<p>I'm Jane Doe and welcome to my food blog. Each week I try out a new recipe and post it here to share it with the world. If you enjoy any of the recipes I post feel free to leave a comment.</p>
 
-			{{ post.excerpt }}
-
-			<p><a class="button" href="{{ post.url }}">Lire plus</a></p>
-		</article>
-	{% endfor %}
-
-	{% if paginator.total_pages > 1 %}
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Derniers articles</a>
-			{% endif %}
-
-			<span class="page_number ">{{ paginator.page }} sur {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Articles plus anciens &rarr;</a>
-			{% endif %}
-		</div>
-	{% endif %}
-</section>
+	<p>I grew up in Denver, Colorado and learned to bake from my mother. After finishing highschool I started baking full time and selling baked goods at local markets. Now I work full-time at a bakery in San Francisco.</p>
+	<img src="https://source.unsplash.com/e05_q5pyMDs" alt="Jane Doe" />
+</div>
