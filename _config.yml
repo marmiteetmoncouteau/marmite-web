@@ -32,7 +32,7 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: ""
+      path: "/xyz"
       type: "posts"
     values:
       layout: "post"
