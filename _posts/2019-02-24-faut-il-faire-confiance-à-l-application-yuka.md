@@ -22,7 +22,7 @@ Du coup je vous partage **mon avis honnête** sur cette application.
 
 <br />
 
-# **CE QUE J’AIME BIEN CHEZ YUKA :**
+### **CE QUE J’AIME BIEN CHEZ YUKA :**
 
 Commençons par le plus important : **je suis évidemment fan de leur démarche**.
 
@@ -34,7 +34,7 @@ Désormais les industriels seront obligés d’améliorer leurs produits s’ils
 
 <br />
 
-**YUKA, EST-CE QUE C’EST FIABLE ?**
+### **YUKA, EST-CE QUE C’EST FIABLE ?**
 
 **Sur la démarche, je n’ai aucun doute**. Je crois en leur indépendance et leur honnêteté, et je sais qu’ils travaillent en toute impartialité.
 
@@ -56,9 +56,9 @@ Ceci dit, si les informations de base sont fiables, je suis parfois gêné par l
 
 <br />
 
-**LE PROBLÈME DE YUKA : LA MÉTHODE DE NOTATION**
+### **LE PROBLÈME DE YUKA : LA MÉTHODE DE NOTATION**
 
-**Problème n°1 : La notation de Yuka est assez binaire : c’est « bon » ou c’est « mauvais ». Sauf que c’est parfois plus compliqué que ça…**
+#### **Problème n°1 : La notation de Yuka est assez binaire : c’est « bon » ou c’est « mauvais ». Sauf que c’est parfois plus compliqué que ça…**
 
 La note de Yuka fonctionne avec 4 niveaux de notation (vert foncé, vert clair, orange et rouge), et donne également des précisions nutritionnelles (trop sucré, trop gras, etc).
 
@@ -102,7 +102,7 @@ Idem pour le chocolat noir, qui est excellent pour la santé si on en mange 1 ou
 
 **Le problème c’est que beaucoup de gens peuvent interpréter ces aliments mal notés comme « mauvais pour la santé » et ne plus les acheter. Dommage.**
 
-**Problème n°2 : La notation de Yuka mélange les valeurs nutritionnelles, les calories, le bio et les additifs…**
+#### **Problème n°2 : La notation de Yuka mélange les valeurs nutritionnelles, les calories, le bio et les additifs…**
 
 **Dans l’application les calories font baisser la note, ce qui n’a pas de sens.**
 
@@ -140,7 +140,7 @@ Certains produits non bio de bonne qualité ont sûrement une valeur nutritionne
 
 <br />
 
-**FINALEMENT, FAUT-IL FAIRE CONFIANCE A YUKA ?**
+### **FINALEMENT, FAUT-IL FAIRE CONFIANCE A YUKA ?**
 
 Au final on se rend compte d’une chose : **tous les points négatifs que j’ai listés concernent uniquement les produits simples et peu transformés**.
 
@@ -150,7 +150,7 @@ Il faudrait donc distinguer les deux.
 
 <br />
 
-**MES CONSEILS :**
+### **MES CONSEILS :**
 
 1/ **Utilisez Yuka surtout pour les produits sur-transformés** (ceux avec une longue liste d’ingrédients, des ingrédients au nom étrange et des additifs). Dans ce cas la note est plutôt fiable.
 
