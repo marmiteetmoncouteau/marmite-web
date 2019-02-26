@@ -1,7 +1,8 @@
 ---
 date: 2019-02-25 23:00:00 +0000
 title: Faut-il faire confiance à Yuka ?
-categories: []
+categories:
+- Questions
 featured_image: "/uploads/Yuka image 4.png"
 
 ---
