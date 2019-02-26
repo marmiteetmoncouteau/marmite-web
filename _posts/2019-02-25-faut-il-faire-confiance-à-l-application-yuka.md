@@ -100,11 +100,11 @@ La moutarde est effectivement très salée, mais ce n’est pas un problème si 
 
 Idem pour le chocolat noir, qui est excellent pour la santé si on en mange 1 ou 2 carrés par jour (soit 10 à 20g) et pas la tablette entière.
 
-**Le problème c’est que beaucoup de gens peuvent interpréter ces aliments mal notés comme « mauvais pour la santé » et ne plus les acheter. Dommage.**
+Le problème c’est que beaucoup de gens peuvent interpréter ces aliments mal notés comme « mauvais pour la santé » et ne plus les acheter. Dommage.
 
 **Problème n°2 : La notation de Yuka mélange les valeurs nutritionnelles, les calories, le bio et les additifs…**
 
-**Dans l’application les calories font baisser la note, ce qui n’a pas de sens.**
+Dans l’application les calories font baisser la note, ce qui n’a pas de sens.
 
 Manger des calories est nécessaire pour être en vie, elles sont le carburant de notre corps. Elles n’ont pas de valeur morale, elles ne sont ni bonnes ni mauvaises pour la santé en soi.
 
@@ -165,6 +165,8 @@ Par exemple : pâtes, riz, beurre, chocolat, huile, vinaigre, fromage, épices, 
 => Si c’est une grosse portion à chaque fois (100g ou plus), vous pouvez globalement faire confiance à la note
 
 => Si c’est une petite portion (quelques cuillères, quelques grammes), gardez un esprit critique. Regardez ce qui est vraiment mauvais dans la note : parfois le rouge signifie simplement qu’on peut en manger, mais avec modération.
+
+<br />
 
 À très vite pour la suite !
 
