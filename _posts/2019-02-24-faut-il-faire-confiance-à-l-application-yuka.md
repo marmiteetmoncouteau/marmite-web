@@ -8,8 +8,6 @@ featured_image: "/uploads/Yuka image 2.png"
 ---
 J’ai décidé d’écrire cet article car je reçois très souvent des questions sur l’application Yuka :
 
-<br />
-
 _« Tu en penses quoi ? »_
 
 _« C’est fiable ou pas ? »_
@@ -22,7 +20,9 @@ Du coup je vous partage **mon avis honnête** sur cette application.
 
 **C’est évidemment subjectif et ça n’engage que moi.**
 
-**CE QUE J’AIME BIEN CHEZ YUKA :**
+<br />
+
+#### **CE QUE J’AIME BIEN CHEZ YUKA :**
 
 Commençons par le plus important : **je suis évidemment fan de leur démarche**.
 
@@ -51,6 +51,8 @@ La bonne nouvelle c’est que **ces erreurs sont quand même rares**. Yuka nous 
 Bref, on peut dire que **les informations de Yuka sont globalement fiables** mais mieux vaut garder un œil critique et regarder aussi les étiquettes.
 
 Ceci dit, si les informations de base sont fiables, je suis parfois gêné par l’interprétation qu’en fait l’application :
+
+<br />
 
 **LE PROBLÈME DE YUKA : LA MÉTHODE DE NOTATION**
 
@@ -134,6 +136,8 @@ Je suis évidemment partisan du bio, mais je trouve que ça n’a rien à faire 
 
 Certains produits non bio de bonne qualité ont sûrement une valeur nutritionnelle égale ou supérieure à un équivalent bio.
 
+<br />
+
 **FINALEMENT, FAUT-IL FAIRE CONFIANCE A YUKA ?**
 
 Au final on se rend compte d’une chose : **tous les points négatifs que j’ai listés concernent uniquement les produits simples et peu transformés**.
@@ -141,6 +145,8 @@ Au final on se rend compte d’une chose : **tous les points négatifs que j’a
 Ma conclusion est simple : Je pense que **Yuka est une excellente application pour scanner les produits sur-transformés, mais pas les produits simples**.
 
 Il faudrait donc distinguer les deux.
+
+<br />
 
 **MES CONSEILS :**
 
