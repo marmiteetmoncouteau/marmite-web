@@ -22,7 +22,7 @@ Du coup je vous partage **mon avis honnête** sur cette application.
 
 <br />
 
-#### **CE QUE J’AIME BIEN CHEZ YUKA :**
+# **CE QUE J’AIME BIEN CHEZ YUKA :**
 
 Commençons par le plus important : **je suis évidemment fan de leur démarche**.
 
@@ -31,6 +31,8 @@ Ils sont les pionniers d’un grand mouvement de transparence qui permet à tout
 Je trouve ça génial qu’il existe enfin un **contre-pouvoir face aux marques et aux distributeurs**, qui jusqu’à présent pouvaient nous dire tout et n’importe quoi sur leurs emballages ou dans leurs publicités.
 
 Désormais les industriels seront obligés d’améliorer leurs produits s’ils ne veulent pas être boycottés, **et ça fait du bien que ce changement arrive enfin**.
+
+<br />
 
 **YUKA, EST-CE QUE C’EST FIABLE ?**
 
