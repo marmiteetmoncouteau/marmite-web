@@ -23,3 +23,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- _posts/faut-il-faire-confiance-à-l-application-yuka.md
