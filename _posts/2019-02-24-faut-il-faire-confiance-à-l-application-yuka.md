@@ -8,6 +8,8 @@ featured_image: "/uploads/Yuka image 2.png"
 ---
 J’ai décidé d’écrire cet article car je reçois très souvent des questions sur l’application Yuka :
 
+<br />
+
 _« Tu en penses quoi ? »_
 
 _« C’est fiable ou pas ? »_
@@ -154,7 +156,7 @@ Par exemple : pâtes, riz, beurre, chocolat, huile, vinaigre, fromage, épices, 
 
 => Si c’est une grosse portion à chaque fois (100g ou plus), vous pouvez globalement faire confiance à la note
 
-=> Si c’est une petite portion (quelques cuillères, quelques grammes), gardez un esprit critique. Regardez ce qui est vraiment mauvais dans la note, peut-être faut-il simplement en manger avec modération.
+=> Si c’est une petite portion (quelques cuillères, quelques grammes), gardez un esprit critique. Regardez ce qui est vraiment mauvais dans la note : parfois le rouge signifie simplement qu’on peut en manger, mais avec modération.
 
 À bientôt !
 
