@@ -1,6 +1,6 @@
 ---
 date: 2019-02-24 23:00:00 +0000
-title: Faut-il faire confiance à l'application Yuka ?
+title: Faut-il faire confiance à Yuka ?
 categories:
 - questionss
 featured_image: "/uploads/Yuka image 2.png"
