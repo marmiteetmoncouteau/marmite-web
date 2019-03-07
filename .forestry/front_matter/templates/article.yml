@@ -22,6 +22,3 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
-pages:
-- _posts/mon-classement-des-meilleures-pâtes-à-tarte.md
-- _posts/faut-il-faire-confiance-à-l-application-yuka.md
