@@ -22,7 +22,7 @@ Catégorie 2/ LE BOF : zéro additif douteux mais une compo parfois trop transfo
 
 Catégorie 3/ LE FLOP : compo pas terrible + additifs douteux
 
-![](/uploads/tableau pâtes tartes.jpg)
+![](/uploads/tableau pâtes tartes-1.jpg)
 
 Catégorie 1/ LE TOP
 
