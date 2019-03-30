@@ -1,89 +1,62 @@
 ---
-date: 2019-03-03 23:00:00 +0000
-title: Mon classement des meilleures pâtes à tarte
+date: 2019-03-29 23:00:00 +0000
+title: Mon classement des meilleures pâtes à tarte du supermarché
 categories:
 - 'Guide du supermarché '
 featured_image: "/uploads/IMG_2538.JPG"
 
 ---
-NB : il s’agit ici de mon avis honnête et sincère, bien évidemment ça reste subjectif.
 
 Comme tout le monde, j’aime bien faire des tartes.
 
-Quand j’ai le temps j’essaye de la faire maison (en gros le weekend ou quand j’ai des invités). Mais le soir en semaine j’avoue que je passe directement par la case « toute prête »
+Bien sûr quand j’ai le temps j’aime bien faire ma pâte maison (en gros le weekend ou quand j’ai des invités).
 
-À force de passer du temps dans le rayon, je me suis fait une petit classement perso des meilleures pâtes à tarte du supermarché, que je vous partage ici.
+Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je passe directement par la case « pâte toute prête ».
 
-Globalement je distingue 3 catégories basées sur les critères suivants :
+Par contre, j’essaye de choisir une pâte la plus proche de celle que j’aurais faite à la maison : c’est-à-dire la moins transformée possible et avec les ingrédients les plus simples (farine, beurre, eau, sel…)
 
-Catégorie 1/ LE TOP : compo (presque) comme à la maison, ingrédients simples, zéro additif
+À force de passer du temps dans les rayons et de comparer les marques, je me suis construit un petit classement des meilleures pâtes à tarte, que je vous partage ici (au total 94 produits analysés, voir tableaux ci-dessous)
 
-Catégorie 2/ LE BOF : zéro additif douteux mais une compo parfois trop transformée ou des ingrédients bizarres qu’on n’aurait pas dans son placard
+Globalement je distingue 3 catégories, basées sur les critères suivants :
 
-Catégorie 3/ LE FLOP : compo pas terrible + additifs douteux
+CATÉGORIE 1 : LE TOP (en vert)
 
-![](/uploads/tableau pâtes tartes jpeg.jpg)
+Zéro additif douteux et une compo proche du fait-maison.
 
-Catégorie 1/ LE TOP
+CATÉGORIE 2 : LE BOF (en orange)
 
-Herta trésor de grand-mère
+Zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
 
-Herta
+CATÉGORIE 3 : LE FLOP (en rouge)
 
-Herta Tarte en Or
+Présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
 
-Herta -30% MG
+NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non J
 
-Herta Bio
+J’ai notamment beaucoup hésité sur certains ingrédients qu’on retrouve dans la majorité des pâtes à tarte comme « alcool éthylique », « levure désactivée » ou « agent de traitement de la farine : L-cystéine », qui n’ont rien de nocif en soi mais qui s’éloignent un peu de la version maison.
 
-Herta rectangulaire
+J’ai finalement décidé de les classer dans la catégorie verte si le reste des ingrédients était clean, mais on pourrait aussi les classer en orange.
 
-Marque Repère
+Dans ce cas le mieux est de prendre une des 4 pâtes avec le symbole « médaille », qui sont les plus cleans (et aussi mes préférées)
 
-Marie pur beurre
+Il faut quand même savoir que telles quelles, les pâtes à tarte ne se conservent pas très bien. C’est pourquoi les industriels ajoutent un produit acide qui joue le rôle de conservateur. Ça peut être du vinaigre ou du jus de citron concentré ou de l’alcool éthylique (un alcool neutre sans goût).
 
-Marie tout simplement
+PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche au moment des courses, pensez à faire des screenshots ;)
 
-Monique Ranou
+Finalement, que faut-il retenir ?
 
-Monique Ranou Bio
+\- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
-Carrefour Bio
+\- La marque leader Herta utilise de l’huile de palme dans toutes ses pâtes, même s’il n’y a aucun additif douteux
 
-Carrefour
+\- Sauf s’il est indiqué « pur beurre », les pâtes contiennent généralementd e l’huile de palme (même les bio)
 
-Carrefour pur beurre
+\- En prenant de la « pur beurre » vous avez quasiment l’assurance de ne pas trouver d’additif douteux (sauf exception comme la sablée)
 
-Carrefour discount
+\- La plupart des MDD ont exactement la même compo, elles sont sûrement fabriquées au même endroit
 
-Bio Logik
+\- Il faut bien regarder la photo et le nom du produit car parfois pour une même marque il existe plusieurs versions différentes qui se ressemblent (comme Marie)
 
-Croustipâte
+PS : J’ai fait ces tableaux en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message pour que je corrige
 
-Croustipâte Bio
-
-Croustipâte sans additif
-
-Monoprix Bio
-
-Monoprix
-
-Toque du chef bio
-
-Toque du chef
-
-Picard
-
-Auchan
-
-Système U
-
-Casino
-
-Bio village (feuilletée / brisée / sablée)
-
-PS : si j’ai oublié certaines marques n’hésitez pas à m’envoyer un petit message pour que je les ajoute ;)
-
-Idem si vous constatez que j’ai fait des erreurs (ça peut arriver)
-
-\+ laius sur les matières grasses
+Idem si j’ai oublié certaines marques, dites-le-moi et je les ajoute ;)
