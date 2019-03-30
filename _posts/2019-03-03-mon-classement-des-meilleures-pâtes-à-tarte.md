@@ -10,19 +10,19 @@ Comme tout le monde, j’aime bien faire des tartes.
 
 Bien sûr quand j’ai le temps j’essaye de faire ma pâte maison (en gros le weekend ou quand j’ai des invités).
 
-Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je passe directement par la case « pâte toute prête ».
+Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je passe directement par la case « pâte toute prête »...
 
-**Par contre, j’essaye de choisir une pâte la plus proche de celle que j’aurais faite à la maison : c’est-à-dire la moins transformée possible et avec les ingrédients les plus simples (farine, beurre, eau, sel…)**
+**Par contre, j’essaye de choisir une pâte la plus proche de celle que j’aurais faite à la maison : c’est-à-dire la moins transformée possible et avec les ingrédients les plus simples (farine, beurre, eau, sel).**
 
-À force de passer du temps dans les rayons et de comparer les marques, je me suis construit un petit classement des meilleures pâtes à tarte, que je vous partage ici (au total 94 produits analysés, voir tableaux ci-dessous)
+À force de passer du temps dans les rayons et de comparer les marques, je me suis construit un petit classement des meilleures pâtes à tarte, que je vous partage ici (au total 94 produits analysés, voir tableaux ci-dessous).
 
 **Globalement je distingue 3 catégories, basées sur les critères suivants :**
 
 **LE TOP (en vert) :** zéro additif douteux et une compo proche du fait-maison.
 
-**LE BOF (en orange) :** zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
+**LE BOF (en orange) :** zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme.
 
-**LE FLOP (en rouge) :** présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
+**LE FLOP (en rouge) :** présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme.
 
 **NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non.**
 
@@ -30,7 +30,7 @@ J’ai notamment beaucoup hésité sur certains ingrédients qu’on retrouve da
 
 J’ai finalement décidé de les classer dans la catégorie verte si le reste des ingrédients était clean, mais on pourrait aussi les classer en orange.
 
-Dans ce cas le mieux est de prendre une des 4 pâtes avec le symbole « médaille », qui sont les plus cleans (et aussi mes préférées)
+Dans ce cas le mieux est de prendre une des 4 pâtes avec le symbole « médaille », qui sont les plus cleans (et aussi mes préférées).
 
 Il faut quand même savoir que telles quelles, les pâtes à tarte ne se conservent pas très bien. C’est pourquoi les industriels ajoutent un produit acide qui joue le rôle de conservateur. Ça peut être du vinaigre ou du jus de citron concentré ou de l’alcool éthylique (un alcool neutre sans goût).
 
@@ -48,7 +48,7 @@ PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche
 
 \- La marque leader Herta utilise de l’huile de palme dans toutes ses pâtes, même s’il n’y a aucun additif douteux
 
-\- Sauf s’il est indiqué « pur beurre », les pâtes contiennent généralementd e l’huile de palme (même les bio)
+\- Sauf s’il est indiqué « pur beurre », les pâtes contiennent généralement e l’huile de palme (même les bio)
 
 \- En prenant de la « pur beurre » vous avez quasiment l’assurance de ne pas trouver d’additif douteux (sauf exception comme la sablée)
 
@@ -56,6 +56,4 @@ PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche
 
 \- Il faut bien regarder la photo et le nom du produit car parfois pour une même marque il existe plusieurs versions différentes qui se ressemblent (comme Marie)
 
-PS : J’ai fait ces tableaux en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message pour que je corrige
-
-Idem si j’ai oublié certaines marques, dites-le-moi et je les ajoute ;)
+**PS : J’ai fait ces tableaux en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message pour que je corrige. Idem si j’ai oublié certaines marques, dites-le-moi et je les ajoute ;)**
