@@ -16,7 +16,7 @@ Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je 
 
 À force de passer du temps dans les rayons et de comparer les marques, je me suis construit un petit classement des meilleures pâtes à tarte, que je vous partage ici (au total 94 produits analysés, voir tableaux ci-dessous).
 
-**Globalement je distingue 3 catégories, basées sur les critères suivants :**
+### **Globalement je distingue 3 catégories, basées sur les critères suivants :**
 
 **LE TOP (en vert) :** zéro additif douteux et une compo proche du fait-maison.
 
@@ -42,7 +42,7 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 ![](/uploads/tableau pâtes tartes 3 copie.jpg)
 
-**Finalement, que faut-il retenir ?** 
+### **Finalement, que faut-il retenir ?** 
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
