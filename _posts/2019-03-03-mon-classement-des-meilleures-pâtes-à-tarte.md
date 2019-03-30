@@ -34,7 +34,7 @@ Dans ce cas le mieux est de prendre une des 4 pâtes avec le symbole « médaill
 
 Il faut quand même savoir que telles quelles, les pâtes à tarte ne se conservent pas très bien. C’est pourquoi les industriels ajoutent un produit acide qui joue le rôle de conservateur. Ça peut être du vinaigre ou du jus de citron concentré ou de l’alcool éthylique (un alcool neutre sans goût).
 
-PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche au moment des courses, pensez à faire des screenshots ;)
+PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poche au moment des courses (pensez à faire des screenshots) et vous pouvez aussi zoomer pour mieux voir les images ;)
 
 ![](/uploads/tableau pâtes tartes 1 copie.jpg)
 
