@@ -18,17 +18,11 @@ Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je 
 
 **Globalement je distingue 3 catégories, basées sur les critères suivants :**
 
-CATÉGORIE 1 : LE TOP (en vert)
+**LE TOP (en vert) :** zéro additif douteux et une compo proche du fait-maison.
 
-_Zéro additif douteux et une compo proche du fait-maison._
+**LE BOF (en orange) :** zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
 
-CATÉGORIE 2 : LE BOF (en orange)
-
-_Zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme_
-
-CATÉGORIE 3 : LE FLOP (en rouge)
-
-_Présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme_
+**LE FLOP (en rouge) :** présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
 
 **NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non.**
 
@@ -45,6 +39,8 @@ PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche
 ![](/uploads/tableau pâtes tartes 1 copie.jpg)
 
 ![](/uploads/tableau pâtes tartes 2 copie.jpg)
+
+![](/uploads/tableau pâtes tartes 3 copie.jpg)
 
 **Finalement, que faut-il retenir ?**
 
