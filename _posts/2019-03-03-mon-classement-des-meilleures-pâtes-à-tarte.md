@@ -42,6 +42,10 @@ Il faut quand même savoir que telles quelles, les pâtes à tarte ne se conserv
 
 PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche au moment des courses, pensez à faire des screenshots ;)
 
+![](/uploads/tableau pâtes tartes 1 copie.jpg)
+
+![](/uploads/tableau pâtes tartes 2 copie.jpg)
+
 **Finalement, que faut-il retenir ?**
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
