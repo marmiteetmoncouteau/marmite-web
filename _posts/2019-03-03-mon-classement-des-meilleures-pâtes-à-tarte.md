@@ -42,7 +42,7 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 ![](/uploads/tableau pâtes tartes 3 copie.jpg)
 
-**Finalement, que faut-il retenir ?**
+**Finalement, que faut-il retenir ?** 
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
