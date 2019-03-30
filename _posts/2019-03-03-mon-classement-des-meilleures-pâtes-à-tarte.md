@@ -46,7 +46,7 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
-\- La marque leader Herta utilise de l’huile de palme dans toutes ses pâtes, même s’il n’y a aucun additif douteux
+\- La marque  Herta (leader du marché) utilise de l’huile de palme dans toutes ses pâtes, même s’il n’y a aucun additif douteux
 
 \- Sauf s’il est indiqué « pur beurre », les pâtes contiennent généralement e l’huile de palme (même les bio)
 
