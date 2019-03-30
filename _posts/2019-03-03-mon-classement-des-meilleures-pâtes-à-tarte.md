@@ -6,32 +6,31 @@ categories:
 featured_image: "/uploads/IMG_2538.JPG"
 
 ---
-
 Comme tout le monde, j’aime bien faire des tartes.
 
 Bien sûr quand j’ai le temps j’aime bien faire ma pâte maison (en gros le weekend ou quand j’ai des invités).
 
 Mais le soir, en semaine, quand je rentre à la maison à 20h, j’avoue que je passe directement par la case « pâte toute prête ».
 
-Par contre, j’essaye de choisir une pâte la plus proche de celle que j’aurais faite à la maison : c’est-à-dire la moins transformée possible et avec les ingrédients les plus simples (farine, beurre, eau, sel…)
+**Par contre, j’essaye de choisir une pâte la plus proche de celle que j’aurais faite à la maison : c’est-à-dire la moins transformée possible et avec les ingrédients les plus simples (farine, beurre, eau, sel…)**
 
 À force de passer du temps dans les rayons et de comparer les marques, je me suis construit un petit classement des meilleures pâtes à tarte, que je vous partage ici (au total 94 produits analysés, voir tableaux ci-dessous)
 
-Globalement je distingue 3 catégories, basées sur les critères suivants :
+**Globalement je distingue 3 catégories, basées sur les critères suivants :**
 
 CATÉGORIE 1 : LE TOP (en vert)
 
-Zéro additif douteux et une compo proche du fait-maison.
+_Zéro additif douteux et une compo proche du fait-maison._
 
 CATÉGORIE 2 : LE BOF (en orange)
 
-Zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
+_Zéro additif douteux mais une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme_
 
 CATÉGORIE 3 : LE FLOP (en rouge)
 
-Présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme
+_Présence d‘additifs douteux + une compo un peu plus éloignée du fait-maison, avec des ingrédients parfois controversés comme l‘huile de palme_
 
-NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non J
+**NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non.**
 
 J’ai notamment beaucoup hésité sur certains ingrédients qu’on retrouve dans la majorité des pâtes à tarte comme « alcool éthylique », « levure désactivée » ou « agent de traitement de la farine : L-cystéine », qui n’ont rien de nocif en soi mais qui s’éloignent un peu de la version maison.
 
@@ -43,7 +42,7 @@ Il faut quand même savoir que telles quelles, les pâtes à tarte ne se conserv
 
 PS : Ces tableau sont au format vertical pour les avoir facilement dans la poche au moment des courses, pensez à faire des screenshots ;)
 
-Finalement, que faut-il retenir ?
+**Finalement, que faut-il retenir ?**
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
