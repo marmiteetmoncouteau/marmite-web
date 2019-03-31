@@ -42,7 +42,7 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 ![](/uploads/tableau pâtes tartes 3 copie.jpg)
 
-### **Finalement, que faut-il retenir ?** 
+### **Finalement, que faut-il retenir ?**
 
 \- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
 
@@ -52,7 +52,7 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 \- En prenant de la « pur beurre » vous avez quasiment l’assurance de ne pas trouver d’additif douteux (sauf exception comme la sablée)
 
-\- La plupart des MDD ont exactement la même compo, elles sont sûrement fabriquées au même endroit
+\- La plupart des marques de distributeurs ont exactement la même compo, elles sont sûrement fabriquées au même endroit
 
 \- Il faut bien regarder la photo et le nom du produit car parfois pour une même marque il existe plusieurs versions différentes qui se ressemblent (comme Marie)
 
