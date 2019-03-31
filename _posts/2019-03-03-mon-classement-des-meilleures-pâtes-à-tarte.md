@@ -44,13 +44,13 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 ### **Finalement, que faut-il retenir ?**
 
-\- Les 4 marquées d’une médaille sont pour moi les meilleures du supermarché, les plus proches d’une version maison
+\- En prenant une pâte « pur beurre » vous avez l’assurance de n'y trouver ni huile de palme, ni additif douteux (sauf exception comme la sablée)
+
+\- Les 4 pâtes marquées d’une médaille sont selon moi les meilleures du supermarché, les plus proches d’une version maison
 
 \- La marque  Herta (leader du marché) utilise de l’huile de palme dans toutes ses pâtes, même s’il n’y a aucun additif douteux
 
-\- Sauf s’il est indiqué « pur beurre », les pâtes contiennent généralement e l’huile de palme (même les bio)
-
-\- En prenant de la « pur beurre » vous avez quasiment l’assurance de ne pas trouver d’additif douteux (sauf exception comme la sablée)
+\- La plupart des pâtes BIO, sauf si elles sont "pur beurre", sont faites avec de l’huile de palme, même s’il n’y a aucun additif douteux
 
 \- La plupart des marques de distributeurs ont exactement la même compo, elles sont sûrement fabriquées au même endroit
 
