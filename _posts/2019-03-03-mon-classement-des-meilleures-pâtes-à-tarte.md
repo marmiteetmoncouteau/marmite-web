@@ -56,4 +56,4 @@ PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poch
 
 \- Il faut bien regarder la photo et le nom du produit car parfois pour une même marque il existe plusieurs versions différentes qui se ressemblent (comme Marie)
 
-**PS : J’ai fait ces tableaux en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message pour que je corrige. Idem si j’ai oublié certaines marques, dites-le-moi et je les ajoute ;)**
+**PS : J’ai fait ces tableaux en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message sur Instagram pour que je corrige. Idem si j’ai oublié certaines marques, dites-le-moi et je les ajoute ;)**
