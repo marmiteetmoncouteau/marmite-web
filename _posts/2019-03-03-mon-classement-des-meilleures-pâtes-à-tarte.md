@@ -6,7 +6,7 @@ categories:
 featured_image: "/uploads/IMG_2538.JPG"
 
 ---
-Comme tout le monde, j’aime bien faire des tartes.
+Comme tout le monde, j’aime bien faire des tartes :)
 
 Bien sûr quand j’ai le temps j’essaye de faire ma pâte maison (en gros le weekend ou quand j’ai des invités).
 
