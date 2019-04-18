@@ -36,6 +36,8 @@ NB : il s’agit ici de mon avis honnête et sincère, selon les critères les p
 
 PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poche au moment des courses (pensez à faire des screenshots) et vous pouvez aussi zoomer pour mieux voir les images ;)
 
+![](/uploads/Liste verte rayon gateaux.jpg)
+
 ### **Finalement, que faut-il retenir ?**
 
 \- Mieux vaut se tourner vers la catégorie des biscuits « secs » pour trouver des alternatives intéressantes. Les gâteaux « moelleux » contiennent souvent des additifs pour conserver leur texture. Ceux à éviter en particulier sont les gâteaux « moelleux et fourrés », qui sont les plus transformés et ceux qui contiennent le plus d’additifs.
