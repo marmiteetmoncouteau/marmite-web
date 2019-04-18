@@ -48,4 +48,4 @@ PS : Cette liste est  au format vertical pour l'avoir facilement dans la poche a
 
 \- Parmi toutes les poudres à lever qu’on trouve dans les gâteaux, celles qu’il faut particulièrement éviter sont celles contenant des phosphates (diphosphates de sodium, phosphates de calcium, etc)
 
-PS : J’ai fait cette liste en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message sur Instagram pour que je corrige J
+PS : J’ai fait cette liste en toute bonne foi mais il est possible que j’aie fait des erreurs, dans ce cas-là n’hésitez pas à m’envoyer un petit message sur Instagram pour que je corrige :)
