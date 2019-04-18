@@ -34,7 +34,7 @@ Si certaines marques ou produit ne sont pas dans la liste, c’est sûrement par
 
 NB : il s’agit ici de mon avis honnête et sincère, selon les critères les plus importants pour moi. Donc bien évidemment ça reste subjectif, à vous de voir si vous partagez les mêmes critères que moi ou non :)
 
-PS : Ces tableaux sont au format vertical pour les avoir facilement dans la poche au moment des courses (pensez à faire des screenshots) et vous pouvez aussi zoomer pour mieux voir les images ;)
+PS : Cette liste est  au format vertical pour l'avoir facilement dans la poche au moment des courses (pensez à faire des screenshots) et vous pouvez aussi zoomer pour mieux voir les images ;)
 
 ![](/uploads/Liste verte rayon gateaux.jpg)
 
