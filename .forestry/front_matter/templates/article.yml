@@ -22,3 +22,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- _posts/ma-liste-clean-des-gâteaux-du-super.md
